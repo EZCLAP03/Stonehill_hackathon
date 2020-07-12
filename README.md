@@ -1,4 +1,4 @@
-# Stonehill_hackathon
+# Stonehill hackathon
 Project made for the Stonehill hackathon.
 
 All necessary code and circuit diagrams are included.
@@ -23,3 +23,6 @@ Micro Servo 9g x3
 Breadboard x1
 <br>
 Resistors 221 ohms x7
+
+# Did we win?
+Yes
